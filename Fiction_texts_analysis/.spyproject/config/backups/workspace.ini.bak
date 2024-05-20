@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\.spyder-py3\\temp.py', '..\\SmartMedDemo\\Download_module.py', '..\\SmartMedDemo\\Main_Bot.py', '..\\SmartMedDemo\\modules\\models\\BaseModel.py', '..\\SmartMedDemo\\modules\\models\\LogisticRegressionModel.py', '..\\SmartMedDemo\\modules\\models\\BioquivalenceMathsModel.py', '..\\SmartMedDemo\\modules\\models\\LinearRegressionModel.py', '..\\SmartMedDemo\\modules\\models\\ModelInterface.py', '..\\SmartMedDemo\\modules\\models\\PolynomialRegressionModel.py', '..\\SmartMedDemo\\modules\\models\\TreeModel.py', '..\\SmartMedDemo\\modules\\PredictionModule.py', '..\\SmartMedDemo\\modules\\ModelManipulator.py', '..\\SmartMedDemo\\modules\\LifelineModule.py', '..\\SmartMedDemo\\modules\\ComparativeModule.py', '..\\SmartMedDemo\\modules\\ClusterModule.py', '..\\SmartMedDemo\\modules\\StatisticsModule.py', '..\\SmartMedDemo\\modules\\ModuleInterface.py', '..\\SmartMedDemo\\modules\\__init__.py', '..\\SmartMedDemo\\modules\\models\\__init__.py', '..\\SmartMedDemo\\modules\\dataprep\\PandasPreprocessor.py', 'Models\\mdeberta-v3-base.py', 'Models\\distilbert.py', 'Models\\bge-m3.py', 'Models\\Bert.py', 'Models\\all-mpnet-base-v2.py', 'Models\\all-MiniLM-L6-v2.py', 'GUI_new.py', 'Metrics\\Meteor.py', 'Preprocessing\\translate_text.py', 'Preprocessing\\save.py', 'GUI.py', 'Preprocessing\\window_changes.py', 'Models\\xlnet.py', 'Metrics\\bm25.py', 'Preprocessing\\preprocess_text.py', 'Preprocessing\\preprocessing_excel.py', 'Console.py', 'Preprocessing\\Multiple_choice.py', 'Preprocessing\\preprocessing_images.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
