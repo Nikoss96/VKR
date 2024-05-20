@@ -2,16 +2,16 @@
 Программное обеспечение для анализа переводов художественных текстов.
 В рамках работы рассматриваются основные актуальные методы.
 
-![Static Badge](https://img.shields.io/badge/Nikosss96-VKR)
-![GitHub top language](https://img.shields.io/github/languages/top/Nikosss96/VKR)
-![GitHub Repo stars](https://img.shields.io/github/stars/Nikosss96/VKR)
+![Static Badge](https://img.shields.io/badge/Nikoss96-VKR-VKR)
+![GitHub top language](https://img.shields.io/github/languages/top/Nikoss96/VKR)
+![GitHub Repo stars](https://img.shields.io/github/stars/Nikoss96/VKR)
 
 
 ![Logotype](./Documentation/Media/logo.jpg)
 
 <!--Установка-->
-## Установка (Linux)
-У вас должны быть установлены [зависимости проекта](https://github.com/Nikosss96/VKR#зависимости)
+## Установка
+У вас должны быть установлены [зависимости проекта](https://github.com/Nikoss96/VKR#зависимости)
 
 1. Клонирование репозитория 
 
